@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "compound_name": "Sodic East",
+    "longitude": 31.667705211433553,
+    "latitude": 30.15984908559497,
+    "market_sale_price": 8000000,
+    "image": "https://iproperties.com.eg/wp-content/uploads/2022/08/Cover-9.jpg"
+  },
+  {
+    "id": 2,
+    "compound_name": "Al Karma 3",
+    "longitude": 31.015333611625337,
+    "latitude": 30.0079054909353,
+    "market_sale_price": 5030050,
+    "image": "https://realestate.eg/ckfinder/userfiles/images/alkarma-gates/al%20karma%20gates%20new%20zayed.jpg"
+  },
+  {
+    "id": 3,
+    "compound_name": "Al Patio 3",
+    "longitude": 31.504996113905126,
+    "latitude": 30.04278290756877,
+    "market_sale_price": 11000000,
+    "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/compound_image/image/3183/patio_3_2.jpg"
+  },
+  {
+    "id": 4,
+    "compound_name": "Katameya Plaza",
+    "longitude": 31.490635819076665,
+    "latitude": 30.03614826543182,
+    "market_sale_price": 12000000,
+    "image": "https://eastown.new-compound.com/files/2015/12/Kattameya-Plaza-SODIC-2.jpg"
+  },
+  {
+    "id": 5,
+    "compound_name": "One Kattameya",
+    "longitude": 31.356309251406472,
+    "latitude": 29.98036626246282,
+    "market_sale_price": 3000000,
+    "image": "https://memar.s3.amazonaws.com/11553/1594638276_1905_desktop_01.jpg"
+  },
+  {
+    "id": 6,
+    "compound_name": "October Park",
+    "longitude": 31.076959352668286,
+    "latitude": 29.98404145928986,
+    "market_sale_price": 7000000,
+    "image": "https://selecthouse.co/wp-content/uploads/2022/09/october-MV.jpeg"
+  },
+  {
+    "id": 7,
+    "compound_name": "Royal Valley",
+    "longitude": 31.058173906560906,
+    "latitude": 29.91704012488543,
+    "market_sale_price": 8200000,
+    "image": "https://blog.eshtriaqar.com.eg/wp-content/uploads/2021/12/%D9%83%D9%85%D8%A8%D9%88%D9%86%D8%AF-%D8%B1%D9%88%D9%8A%D8%A7%D9%84-%D9%81%D8%A7%D9%84%D9%89-%D8%AD%D8%AF%D8%A7%D8%A6%D9%82-%D8%A7%D9%83%D8%AA%D9%88%D8%A8%D8%B1-1-350x250.jpg"
+  },
+  {
+    "id": 8,
+    "compound_name": "Karma Heights",
+    "longitude": 31.015322445563847,
+    "latitude": 30.00792693530891,
+    "market_sale_price": 8200100,
+    "image": "https://karma-cms.nbhood.com//storage/uploads/2020/02/27/5e57c8474fc62Top-Image02.jpg"
+  },
+  {
+    "id": 9,
+    "compound_name": "Etapa",
+    "longitude": 30.974682698184086,
+    "latitude": 30.06728618305281,
+    "market_sale_price": 8300000,
+    "image": "https://cityedgedevelopments.com/uploads/destinations/destination_6/projects/project_7/cover_image.eb7b48fe-cd6c-40d3-a6ea-59093e8a6786.jpg"
+  },
+  {
+    "id": 10,
+    "compound_name": "Tala",
+    "longitude": 30.918936334914513,
+    "latitude": 29.98250974833899,
+    "market_sale_price": 4020000,
+    "image": "https://www.newaqar.net/storage/2022/11/%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%AA%D8%A7%D9%84%D8%A7-6-%D8%A7%D9%83%D8%AA%D9%88%D8%A8%D8%B1-Tala-compound.webp"
+  },
+  {
+    "id": 11,
+    "compound_name": "Marina",
+    "longitude": 29.61923974221669,
+    "latitude": 31.01682462152418,
+    "market_sale_price": 3000000,
+    "image": "https://flashproperty.com/images/projects/es6097cf44ba7bf.jpg"
+  },
+  {
+    "id": 12,
+    "compound_name": "Marina 4",
+    "longitude": 28.98526172335227,
+    "latitude": 30.83234568733013,
+    "market_sale_price": 5000000,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302461375.jpg?k=6b5e57ccdd3bd06bc59c872f72e4a0d7657cd865ef60718be6249b460b79424e&o=&hp=1"
+  },
+  {
+    "id": 13,
+    "compound_name": "La Vista City",
+    "longitude": 31.592879630614846,
+    "latitude": 30.00345028136838,
+    "market_sale_price": 6000000,
+    "image": "https://realestate.eg/ckfinder/userfiles/images/La%20Vista%20City/La%20vista%20city%20Properties.jpg"
+  },
+  {
+    "id": 14,
+    "compound_name": "Jolie Heights",
+    "longitude": 31.510722121871666,
+    "latitude": 30.03572063697531,
+    "market_sale_price": 7000000,
+    "image": "https://cdn.fazwaz.com/nw/uMTE69fGRYqdIigFOoXRoWNjxZ0/950x505/unit/966924/1631691-6b546o.jpg"
+  },
+  {
+    "id": 15,
+    "compound_name": "El Diplomaseen",
+    "longitude": 31.440817131689922,
+    "latitude": 29.99352315410444,
+    "market_sale_price": 6000000,
+    "image": "https://cdn.fazwaz.com/wbr/DVsQiytOwHDUBht_YGDuS_PrMqM/355x240/unit/942106/1722862-60557o.jpg"
+  }
+]

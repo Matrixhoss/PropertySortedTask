@@ -1,46 +1,68 @@
-# Getting Started with Create React App
+# Property Sorted Front-End App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an implementation for the PropertySorted task
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+The front-end app should include the following features:
 
-### `yarn start`
+- **Navigation**: Users can navigate to the web app using the local server (localhost).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Property Listings**: A simple UI should display a collection of property compounds. Each compound listing should include its location and market sale price. You can refer to Airbnb.com for inspiration on how property listings are displayed.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **Favorite Compounds**: Users can save specific compounds to their favorites list. Each compound listing could have a heart icon that users can click to add the compound to their favorites. The selected compounds should be stored in local storage.
 
-### `yarn test`
+- **Remove from Favorites**: Users should be able to remove compounds from their favorites list. This action should also clear the entire favorites list.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Compound Search**: Users should be able to search for compounds in the list.
 
-### `yarn build`
+- **Images for Compounds**: Incorporate images for compounds. These images can be random and do not need to be accurate.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Responsive Design**: Ensure that the app is responsive and works well on mobile devices.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Simplicity and Design**: Aim for a clean and simple design, taking inspiration from platforms like Google Flights or Airbnb.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Material-UI (MUI)**: Utilize the Material-UI library for building UI components.
 
-### `yarn eject`
+- **Leaflet Map Integration**: Integrate the Leaflet map library to display compound locations.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- **Multiple Pages**: Create separate pages for listing compounds and displaying compound details.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+To run the app locally, follow these steps:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. **Clone this repository to your local machine:**
 
-## Learn More
+    ```bash
+    git clone https://github.com/Matrixhoss/PropertySortedTask
+    ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. **Navigate to the project directory:**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    ```bash
+    cd PropertySortedTask
+    ```
+
+3. **Install dependencies using yarn:**
+
+    ```bash
+    yarn install
+    ```
+
+4. **Start the development server:**
+
+    ```bash
+    yarn start
+    ```
+
+5. **Open your browser and go to `http://localhost:3000` to access the app.**
+
+## Technologies Used
+
+- React
+- TypeScript 
+- Material-UI 
+- Leaflet (Map Integration)
+
+
